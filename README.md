@@ -9,5 +9,11 @@ This project leverages Python 3.7 with the following packages:
 web3 - For interacting with Ethereum
 streamlit - To turn data scripts into shareable web apps
 
+
+
+
+
+![Screenshot (5)](https://github.com/Willykman/Challenge-18/assets/127458194/082d8ae3-3e31-4e0d-b348-affc69dbc5cd)
+
 **Contributors**
 Starter code for this app was provided by the CU Fintech Bootcamp. Updates to that code to fulfill the analysis were done by William Korman and help from TA.
