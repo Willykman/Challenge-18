@@ -10,7 +10,7 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 #Test the blockchain validation process by using the web interface indicating the validity of the blockchain. 
 
-
+![Screenshot (6)](https://github.com/Willykman/Challenge-18/assets/127458194/eeca15a3-54eb-4b86-a190-4b197f41d43d)
 
 
 
